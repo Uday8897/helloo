@@ -1,1 +1,4 @@
+HEAD
 Hello, this is the master branch change.
+Hello, this is the feature branch change.
+feature
