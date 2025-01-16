@@ -1,1 +1,4 @@
+
 This is trying to get merge conflict Hey this is fist commit data
+I am trying to get merge confilct Hey this is fist commit data
+
